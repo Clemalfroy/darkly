@@ -1,0 +1,2 @@
+From Google Chrome dev tools, navigate to 'Application' and 'Cookies'.
+Replace 'I_am_admin' cookie value by md5(true) instead of md5(false).

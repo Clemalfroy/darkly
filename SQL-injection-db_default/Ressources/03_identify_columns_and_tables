@@ -1,1 +1,0 @@
-1 UNION (SELECT COLUMN_NAME, TABLE_NAME FROM information_schema.columns); --

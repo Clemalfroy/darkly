@@ -1,1 +1,0 @@
-Replace 'I_am_admin' value by md5(true) instead of md5(false)

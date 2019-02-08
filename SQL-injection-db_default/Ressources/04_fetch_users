@@ -1,1 +1,0 @@
-1 UNION (SELECT username, password FROM Member_Brute_Force .db_default)

