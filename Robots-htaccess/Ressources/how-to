@@ -1,0 +1,9 @@
+http://172.16.181.128/.robots
+
+on suit http://172.16.181.128/whatever/
+
+fichier avec login et password hash en md5 
+
+http://172.16.181.128/admin/
+login root
+mdp dragon
